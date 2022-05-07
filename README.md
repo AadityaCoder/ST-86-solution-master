@@ -1,1 +1,1 @@
-# ST-86-solution-master
+# ST-86-Solution
